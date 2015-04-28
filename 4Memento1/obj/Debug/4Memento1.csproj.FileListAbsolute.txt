@@ -1,0 +1,6 @@
+E:\Projects\LesserKnownPatterns\4Memento1\bin\Debug\4Memento1.exe.config
+E:\Projects\LesserKnownPatterns\4Memento1\bin\Debug\4Memento1.exe
+E:\Projects\LesserKnownPatterns\4Memento1\bin\Debug\4Memento1.pdb
+E:\Projects\LesserKnownPatterns\4Memento1\obj\Debug\4Memento1.csprojResolveAssemblyReference.cache
+E:\Projects\LesserKnownPatterns\4Memento1\obj\Debug\4Memento1.exe
+E:\Projects\LesserKnownPatterns\4Memento1\obj\Debug\4Memento1.pdb

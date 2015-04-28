@@ -1,0 +1,14 @@
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\5Memento2.exe
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\5Memento2.pdb
+E:\Projects\LesserKnownPatterns\5Memento2\bin\Debug\5Memento2.exe
+E:\Projects\LesserKnownPatterns\5Memento2\bin\Debug\5Memento2.pdb
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\05Memento2.csprojResolveAssemblyReference.cache
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\MainWindow.g.cs
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\App.g.cs
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\5Memento2_MarkupCompile.cache
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\5Memento2_MarkupCompile.lref
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\MainWindow.baml
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\5Memento2.g.resources
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\Memento.Properties.Resources.resources
+E:\Projects\LesserKnownPatterns\5Memento2\obj\x86\Debug\05Memento2.csproj.GenerateResource.Cache

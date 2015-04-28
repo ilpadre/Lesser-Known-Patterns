@@ -1,0 +1,5 @@
+E:\Projects\LesserKnownPatterns\7State2\obj\Debug\7State2.exe
+E:\Projects\LesserKnownPatterns\7State2\bin\Debug\7State2.exe.config
+E:\Projects\LesserKnownPatterns\7State2\bin\Debug\7State2.exe
+E:\Projects\LesserKnownPatterns\7State2\bin\Debug\7State2.pdb
+E:\Projects\LesserKnownPatterns\7State2\obj\Debug\7State2.pdb

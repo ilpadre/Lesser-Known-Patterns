@@ -1,0 +1,8 @@
+E:\Projects\LesserKnownPatterns\10PipesAndFilters1\bin\Debug\10PipesAndFilters1.exe.config
+E:\Projects\LesserKnownPatterns\10PipesAndFilters1\bin\Debug\10PipesAndFilters1.exe
+E:\Projects\LesserKnownPatterns\10PipesAndFilters1\bin\Debug\10PipesAndFilters1.pdb
+E:\Projects\LesserKnownPatterns\10PipesAndFilters1\obj\Debug\10PipesAndFilters1.csprojResolveAssemblyReference.cache
+E:\Projects\LesserKnownPatterns\10PipesAndFilters1\obj\Debug\10PipesAndFilters1.exe
+E:\Projects\LesserKnownPatterns\10PipesAndFilters1\obj\Debug\10PipesAndFilters1.pdb
+E:\Projects\LesserKnownPatterns\10PipesAndFilters1\bin\Debug\Top100.txt
+E:\Projects\LesserKnownPatterns\10PipesAndFilters1\bin\Debug\input.txt

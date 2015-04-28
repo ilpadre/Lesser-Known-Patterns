@@ -1,0 +1,6 @@
+E:\Projects\LesserKnownPatterns\NullObjectBefore\bin\Debug\NullObjectBefore.exe.config
+E:\Projects\LesserKnownPatterns\NullObjectBefore\obj\Debug\NullObjectBefore.exe
+E:\Projects\LesserKnownPatterns\NullObjectBefore\obj\Debug\NullObjectBefore.pdb
+E:\Projects\LesserKnownPatterns\NullObjectBefore\bin\Debug\NullObjectBefore.exe
+E:\Projects\LesserKnownPatterns\NullObjectBefore\bin\Debug\NullObjectBefore.pdb
+E:\Projects\LesserKnownPatterns\NullObjectBefore\obj\Debug\01NullObject1Before.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Projects\LesserKnownPatterns\6State1\bin\Debug\6State1.exe.config
+E:\Projects\LesserKnownPatterns\6State1\bin\Debug\6State1.exe
+E:\Projects\LesserKnownPatterns\6State1\bin\Debug\6State1.pdb
+E:\Projects\LesserKnownPatterns\6State1\obj\Debug\06State1.csprojResolveAssemblyReference.cache
+E:\Projects\LesserKnownPatterns\6State1\obj\Debug\6State1.exe
+E:\Projects\LesserKnownPatterns\6State1\obj\Debug\6State1.pdb

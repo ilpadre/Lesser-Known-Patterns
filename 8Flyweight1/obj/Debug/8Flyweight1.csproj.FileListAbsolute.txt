@@ -1,0 +1,7 @@
+E:\Projects\LesserKnownPatterns\8Flyweight1\bin\Debug\8Flyweight1.exe.config
+E:\Projects\LesserKnownPatterns\8Flyweight1\bin\Debug\8Flyweight1.exe
+E:\Projects\LesserKnownPatterns\8Flyweight1\bin\Debug\8Flyweight1.pdb
+E:\Projects\LesserKnownPatterns\8Flyweight1\obj\Debug\8Flyweight1.csprojResolveAssemblyReference.cache
+E:\Projects\LesserKnownPatterns\8Flyweight1\obj\Debug\8Flyweight1.exe
+E:\Projects\LesserKnownPatterns\8Flyweight1\obj\Debug\8Flyweight1.pdb
+E:\Projects\LesserKnownPatterns\8Flyweight1\bin\Debug\input.txt

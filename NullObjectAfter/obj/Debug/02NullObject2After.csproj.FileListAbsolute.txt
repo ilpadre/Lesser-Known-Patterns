@@ -1,0 +1,6 @@
+E:\Projects\LesserKnownPatterns\NullObjectAfter\obj\Debug\02NullObject2After.csprojResolveAssemblyReference.cache
+E:\Projects\LesserKnownPatterns\NullObjectAfter\obj\Debug\NullObjectAfter.exe
+E:\Projects\LesserKnownPatterns\NullObjectAfter\bin\Debug\NullObjectAfter.exe.config
+E:\Projects\LesserKnownPatterns\NullObjectAfter\bin\Debug\NullObjectAfter.exe
+E:\Projects\LesserKnownPatterns\NullObjectAfter\bin\Debug\NullObjectAfter.pdb
+E:\Projects\LesserKnownPatterns\NullObjectAfter\obj\Debug\NullObjectAfter.pdb
